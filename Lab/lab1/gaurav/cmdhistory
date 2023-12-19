@@ -1,0 +1,16 @@
+ 1136  ls ../dir4
+ 1137  tree ..
+ 1138  cd ..
+ 1139  rmdir dir4
+ 1140  rm dir4
+ 1141  rm -rf dir4
+ 1142  tree
+ 1143  ls
+ 1144  echo hello > efile
+ 1145  cat efile 
+ 1146  echo hi > efile
+ 1147  cat efile
+ 1148  echo hello >> efile
+ 1149  cat efile
+ 1150  history
+ 1151  history -a
